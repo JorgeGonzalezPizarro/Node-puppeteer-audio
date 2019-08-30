@@ -1,0 +1,6084 @@
+[2019-08-30T11:44:22.502] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T11:44:22.510] [INFO] default - [p 13172] Listening at port 4000
+[2019-08-30T12:00:12.649] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:00:12.657] [INFO] default - [p 9520] Listening at port 4000
+[2019-08-30T12:38:40.910] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:38:40.918] [INFO] default - [p 15464] Listening at port 4000
+[2019-08-30T12:57:09.463] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:57:09.471] [INFO] default - [p 10392] Listening at port 4000
+[2019-08-30T12:57:32.276] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:57:32.286] [INFO] default - [p 3932] Listening at port 4000
+[2019-08-30T12:57:52.567] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:57:52.575] [INFO] default - [p 4556] Listening at port 4000
+[2019-08-30T12:58:49.762] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T12:58:49.770] [INFO] default - [p 17200] Listening at port 4000
+[2019-08-30T13:00:17.283] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:00:17.292] [INFO] default - [p 4860] Listening at port 4000
+[2019-08-30T13:00:21.170] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:00:21.194] [INFO] default - [p 13400] Listening at port 4000
+[2019-08-30T13:00:42.284] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:00:42.295] [INFO] default - [p 9392] Listening at port 4000
+[2019-08-30T13:00:52.736] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:00:52.744] [INFO] default - [p 17856] Listening at port 4000
+[2019-08-30T13:01:23.823] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:01:23.832] [INFO] default - [p 7560] Listening at port 4000
+[2019-08-30T13:01:37.958] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:01:37.967] [INFO] default - [p 7656] Listening at port 4000
+[2019-08-30T13:01:59.167] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:01:59.176] [INFO] default - [p 10616] Listening at port 4000
+[2019-08-30T13:03:33.720] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:03:33.729] [INFO] default - [p 5820] Listening at port 4000
+[2019-08-30T13:05:11.157] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:05:11.166] [INFO] default - [p 16976] Listening at port 4000
+[2019-08-30T13:06:05.295] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:06:05.303] [INFO] default - [p 12296] Listening at port 4000
+[2019-08-30T13:07:46.294] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:07:46.303] [INFO] default - [p 10944] Listening at port 4000
+[2019-08-30T13:07:59.915] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:07:59.926] [INFO] default - [p 1996] Listening at port 4000
+[2019-08-30T13:08:03.282] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:08:03.292] [INFO] default - [p 2440] Listening at port 4000
+[2019-08-30T13:08:14.989] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:08:14.998] [INFO] default - [p 12640] Listening at port 4000
+[2019-08-30T13:09:01.598] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:09:01.606] [INFO] default - [p 4860] Listening at port 4000
+[2019-08-30T13:09:25.846] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:09:25.855] [INFO] default - [p 18268] Listening at port 4000
+[2019-08-30T13:09:28.752] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:09:28.763] [INFO] default - [p 16292] Listening at port 4000
+[2019-08-30T13:09:39.592] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:09:39.601] [INFO] default - [p 11092] Listening at port 4000
+[2019-08-30T13:09:58.177] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:09:58.187] [INFO] default - [p 8272] Listening at port 4000
+[2019-08-30T13:11:56.023] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:11:56.032] [INFO] default - [p 12312] Listening at port 4000
+[2019-08-30T13:12:24.316] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:12:24.326] [INFO] default - [p 8452] Listening at port 4000
+[2019-08-30T13:13:59.381] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:13:59.390] [INFO] default - [p 12432] Listening at port 4000
+[2019-08-30T13:14:21.401] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:14:21.410] [INFO] default - [p 13720] Listening at port 4000
+[2019-08-30T13:19:18.872] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:19:18.881] [INFO] default - [p 15480] Listening at port 4000
+[2019-08-30T13:19:23.796] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:19:23.805] [INFO] default - [p 16976] Listening at port 4000
+[2019-08-30T13:19:39.654] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:19:39.663] [INFO] default - [p 3916] Listening at port 4000
+[2019-08-30T13:19:58.984] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:19:58.993] [INFO] default - [p 15876] Listening at port 4000
+[2019-08-30T13:20:05.313] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:20:05.321] [INFO] default - [p 16736] Listening at port 4000
+[2019-08-30T13:20:14.886] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:20:14.895] [INFO] default - [p 16176] Listening at port 4000
+[2019-08-30T13:20:24.168] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:20:24.177] [INFO] default - [p 18264] Listening at port 4000
+[2019-08-30T13:21:27.632] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:21:27.642] [INFO] default - [p 16240] Listening at port 4000
+[2019-08-30T13:21:37.880] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:21:37.889] [INFO] default - [p 14772] Listening at port 4000
+[2019-08-30T13:21:47.461] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:21:47.471] [INFO] default - [p 5320] Listening at port 4000
+[2019-08-30T13:21:57.329] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:21:57.338] [INFO] default - [p 3980] Listening at port 4000
+[2019-08-30T13:22:17.903] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:22:17.911] [INFO] default - [p 13268] Listening at port 4000
+[2019-08-30T13:22:27.121] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:22:27.130] [INFO] default - [p 10580] Listening at port 4000
+[2019-08-30T13:22:27.869] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:22:27.878] [INFO] default - [p 16500] Listening at port 4000
+[2019-08-30T13:22:58.760] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:22:58.768] [INFO] default - [p 2308] Listening at port 4000
+[2019-08-30T13:23:09.950] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:23:09.961] [INFO] default - [p 8020] Listening at port 4000
+[2019-08-30T13:23:14.100] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:23:14.109] [INFO] default - [p 2920] Listening at port 4000
+[2019-08-30T13:23:34.819] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:23:34.829] [INFO] default - [p 3532] Listening at port 4000
+[2019-08-30T13:23:47.684] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:23:47.705] [INFO] default - [p 14608] Listening at port 4000
+[2019-08-30T13:24:12.832] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:24:12.842] [INFO] default - [p 13720] Listening at port 4000
+[2019-08-30T13:24:14.592] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:24:14.612] [INFO] default - [p 5408] Listening at port 4000
+[2019-08-30T13:24:24.670] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:24:24.679] [INFO] default - [p 17184] Listening at port 4000
+[2019-08-30T13:24:54.094] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:24:54.103] [INFO] default - [p 5572] Listening at port 4000
+[2019-08-30T13:24:55.956] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:24:55.965] [INFO] default - [p 16208] Listening at port 4000
+[2019-08-30T13:25:14.911] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:25:14.921] [INFO] default - [p 11128] Listening at port 4000
+[2019-08-30T13:25:21.907] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:25:21.918] [INFO] default - [p 8312] Listening at port 4000
+[2019-08-30T13:25:33.192] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:25:33.200] [INFO] default - [p 17824] Listening at port 4000
+[2019-08-30T13:27:28.225] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:27:28.236] [INFO] default - [p 18048] Listening at port 4000
+[2019-08-30T13:27:33.361] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:27:33.369] [INFO] default - [p 8524] Listening at port 4000
+[2019-08-30T13:27:48.315] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:27:48.324] [INFO] default - [p 16308] Listening at port 4000
+[2019-08-30T13:27:59.940] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:27:59.948] [INFO] default - [p 1372] Listening at port 4000
+[2019-08-30T13:28:13.153] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:28:13.168] [INFO] default - [p 2292] Listening at port 4000
+[2019-08-30T13:28:50.019] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:28:50.029] [INFO] default - [p 16896] Listening at port 4000
+[2019-08-30T13:29:07.080] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:29:07.088] [INFO] default - [p 8524] Listening at port 4000
+[2019-08-30T13:29:16.088] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:29:16.096] [INFO] default - [p 8224] Listening at port 4000
+[2019-08-30T13:29:35.267] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:29:35.280] [INFO] default - [p 1112] Listening at port 4000
+[2019-08-30T13:29:46.014] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:29:46.024] [INFO] default - [p 5980] Listening at port 4000
+[2019-08-30T13:30:22.511] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:30:22.520] [INFO] default - [p 17936] Listening at port 4000
+[2019-08-30T13:31:38.992] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:31:39.002] [INFO] default - [p 17060] Listening at port 4000
+[2019-08-30T13:33:03.371] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:33:03.383] [INFO] default - [p 15104] Listening at port 4000
+[2019-08-30T13:33:11.063] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:33:11.072] [INFO] default - [p 4868] Listening at port 4000
+[2019-08-30T13:33:31.222] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:33:31.234] [INFO] default - [p 14556] Listening at port 4000
+[2019-08-30T13:33:43.148] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:33:43.156] [INFO] default - [p 9068] Listening at port 4000
+[2019-08-30T13:33:54.325] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:33:54.333] [INFO] default - [p 6552] Listening at port 4000
+[2019-08-30T13:50:17.195] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:50:17.203] [INFO] default - [p 11192] Listening at port 4000
+[2019-08-30T13:50:25.123] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:50:25.132] [INFO] default - [p 16280] Listening at port 4000
+[2019-08-30T13:50:36.300] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:50:36.308] [INFO] default - [p 6880] Listening at port 4000
+[2019-08-30T13:51:07.114] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:51:07.124] [INFO] default - [p 11028] Listening at port 4000
+[2019-08-30T13:51:17.408] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:51:17.418] [INFO] default - [p 17768] Listening at port 4000
+[2019-08-30T13:52:34.355] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:52:34.364] [INFO] default - [p 12800] Listening at port 4000
+[2019-08-30T13:52:46.731] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:52:46.741] [INFO] default - [p 12808] Listening at port 4000
+[2019-08-30T13:54:39.404] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:54:39.414] [INFO] default - [p 8184] Listening at port 4000
+[2019-08-30T13:55:47.442] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:55:47.451] [INFO] default - [p 12832] Listening at port 4000
+[2019-08-30T13:56:48.615] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:56:48.626] [INFO] default - [p 14476] Listening at port 4000
+[2019-08-30T13:57:06.293] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:57:06.303] [INFO] default - [p 6948] Listening at port 4000
+[2019-08-30T13:57:21.679] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:57:21.687] [INFO] default - [p 13572] Listening at port 4000
+[2019-08-30T13:57:39.484] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:57:39.493] [INFO] default - [p 18272] Listening at port 4000
+[2019-08-30T13:58:04.808] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:58:04.819] [INFO] default - [p 7412] Listening at port 4000
+[2019-08-30T13:58:16.125] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:58:16.134] [INFO] default - [p 18344] Listening at port 4000
+[2019-08-30T13:58:27.957] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:58:27.966] [INFO] default - [p 14140] Listening at port 4000
+[2019-08-30T13:58:40.579] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:58:40.589] [INFO] default - [p 15496] Listening at port 4000
+[2019-08-30T13:58:54.034] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:58:54.042] [INFO] default - [p 9884] Listening at port 4000
+[2019-08-30T13:59:06.050] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:59:06.059] [INFO] default - [p 12984] Listening at port 4000
+[2019-08-30T13:59:23.250] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:59:23.260] [INFO] default - [p 16264] Listening at port 4000
+[2019-08-30T13:59:50.692] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T13:59:50.700] [INFO] default - [p 16972] Listening at port 4000
+[2019-08-30T14:00:04.617] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:04.626] [INFO] default - [p 18204] Listening at port 4000
+[2019-08-30T14:00:16.902] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:16.918] [INFO] default - [p 11336] Listening at port 4000
+[2019-08-30T14:00:26.871] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:26.880] [INFO] default - [p 9692] Listening at port 4000
+[2019-08-30T14:00:35.740] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:35.749] [INFO] default - [p 13916] Listening at port 4000
+[2019-08-30T14:00:53.039] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:53.045] [INFO] default - [p 13528] Listening at port 4000
+[2019-08-30T14:00:59.091] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:00:59.097] [INFO] default - [p 16980] Listening at port 4000
+[2019-08-30T14:01:10.717] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:01:10.723] [INFO] default - [p 8488] Listening at port 4000
+[2019-08-30T14:01:21.514] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:01:21.520] [INFO] default - [p 2276] Listening at port 4000
+[2019-08-30T14:01:38.504] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:01:38.509] [INFO] default - [p 12612] Listening at port 4000
+[2019-08-30T14:01:42.582] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:01:42.588] [INFO] default - [p 7868] Listening at port 4000
+[2019-08-30T14:02:05.012] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:02:05.018] [INFO] default - [p 7080] Listening at port 4000
+[2019-08-30T14:02:18.912] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:02:18.918] [INFO] default - [p 16372] Listening at port 4000
+[2019-08-30T14:02:40.714] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:02:40.720] [INFO] default - [p 14824] Listening at port 4000
+[2019-08-30T14:02:52.631] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:02:52.637] [INFO] default - [p 16560] Listening at port 4000
+[2019-08-30T14:03:15.986] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:03:15.991] [INFO] default - [p 17508] Listening at port 4000
+[2019-08-30T14:03:28.056] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:03:28.062] [INFO] default - [p 15836] Listening at port 4000
+[2019-08-30T14:03:40.077] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:03:40.082] [INFO] default - [p 15968] Listening at port 4000
+[2019-08-30T14:04:22.525] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:04:22.531] [INFO] default - [p 11812] Listening at port 4000
+[2019-08-30T14:04:48.364] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:04:48.370] [INFO] default - [p 17368] Listening at port 4000
+[2019-08-30T14:05:03.768] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:05:03.774] [INFO] default - [p 1096] Listening at port 4000
+[2019-08-30T14:05:14.936] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:05:14.955] [INFO] default - [p 9720] Listening at port 4000
+[2019-08-30T14:05:24.823] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:05:24.829] [INFO] default - [p 15824] Listening at port 4000
+[2019-08-30T14:05:48.190] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:05:48.197] [INFO] default - [p 2920] Listening at port 4000
+[2019-08-30T14:05:53.297] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:05:53.302] [INFO] default - [p 14832] Listening at port 4000
+[2019-08-30T14:06:10.874] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:06:10.879] [INFO] default - [p 8692] Listening at port 4000
+[2019-08-30T14:06:23.473] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:06:23.491] [INFO] default - [p 7220] Listening at port 4000
+[2019-08-30T14:06:32.196] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:06:32.202] [INFO] default - [p 17876] Listening at port 4000
+[2019-08-30T14:06:47.590] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:06:47.596] [INFO] default - [p 8212] Listening at port 4000
+[2019-08-30T14:07:10.800] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:07:10.806] [INFO] default - [p 11800] Listening at port 4000
+[2019-08-30T14:07:23.810] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:07:23.816] [INFO] default - [p 14720] Listening at port 4000
+[2019-08-30T14:07:34.600] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:07:34.606] [INFO] default - [p 10492] Listening at port 4000
+[2019-08-30T14:07:43.706] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:07:43.712] [INFO] default - [p 15844] Listening at port 4000
+[2019-08-30T14:07:57.107] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:07:57.113] [INFO] default - [p 4564] Listening at port 4000
+[2019-08-30T14:08:08.381] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:08:08.387] [INFO] default - [p 15208] Listening at port 4000
+[2019-08-30T14:08:28.859] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:08:28.865] [INFO] default - [p 17996] Listening at port 4000
+[2019-08-30T14:08:44.945] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:08:44.952] [INFO] default - [p 10792] Listening at port 4000
+[2019-08-30T14:08:53.958] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:08:53.963] [INFO] default - [p 6552] Listening at port 4000
+[2019-08-30T14:09:04.184] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:09:04.190] [INFO] default - [p 15920] Listening at port 4000
+[2019-08-30T14:09:18.252] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:09:18.258] [INFO] default - [p 13836] Listening at port 4000
+[2019-08-30T14:09:34.795] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:09:34.800] [INFO] default - [p 16600] Listening at port 4000
+[2019-08-30T14:09:42.928] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:09:42.934] [INFO] default - [p 2208] Listening at port 4000
+[2019-08-30T14:09:54.961] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:09:54.967] [INFO] default - [p 15272] Listening at port 4000
+[2019-08-30T14:10:05.766] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:05.771] [INFO] default - [p 12056] Listening at port 4000
+[2019-08-30T14:10:09.250] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:09.256] [INFO] default - [p 17960] Listening at port 4000
+[2019-08-30T14:10:17.526] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:17.537] [INFO] default - [p 16112] Listening at port 4000
+[2019-08-30T14:10:27.669] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:27.674] [INFO] default - [p 10172] Listening at port 4000
+[2019-08-30T14:10:34.830] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:34.836] [INFO] default - [p 15752] Listening at port 4000
+[2019-08-30T14:10:58.232] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:10:58.238] [INFO] default - [p 3292] Listening at port 4000
+[2019-08-30T14:11:05.814] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:11:05.820] [INFO] default - [p 18340] Listening at port 4000
+[2019-08-30T14:12:14.018] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:12:14.023] [INFO] default - [p 16784] Listening at port 4000
+[2019-08-30T14:12:18.863] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:12:18.870] [INFO] default - [p 14040] Listening at port 4000
+[2019-08-30T14:15:17.053] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:15:17.059] [INFO] default - [p 16000] Listening at port 4000
+[2019-08-30T14:17:27.380] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:17:27.386] [INFO] default - [p 9728] Listening at port 4000
+[2019-08-30T14:17:56.411] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:17:56.417] [INFO] default - [p 17236] Listening at port 4000
+[2019-08-30T14:18:16.663] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:18:16.669] [INFO] default - [p 16052] Listening at port 4000
+[2019-08-30T14:18:58.926] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:18:58.931] [INFO] default - [p 15984] Listening at port 4000
+[2019-08-30T14:19:46.870] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:19:46.876] [INFO] default - [p 16916] Listening at port 4000
+[2019-08-30T14:20:11.735] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:20:11.741] [INFO] default - [p 16508] Listening at port 4000
+[2019-08-30T14:24:09.217] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:24:09.233] [INFO] default - [p 17620] Listening at port 4000
+[2019-08-30T14:24:42.361] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:24:42.368] [INFO] default - [p 17584] Listening at port 4000
+[2019-08-30T14:25:24.101] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:25:24.107] [INFO] default - [p 3024] Listening at port 4000
+[2019-08-30T14:25:27.261] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:25:27.267] [INFO] default - [p 13756] Listening at port 4000
+[2019-08-30T14:27:09.556] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:27:09.562] [INFO] default - [p 16012] Listening at port 4000
+[2019-08-30T14:27:17.475] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:27:17.481] [INFO] default - [p 10304] Listening at port 4000
+[2019-08-30T14:28:21.175] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:28:21.181] [INFO] default - [p 7896] Listening at port 4000
+[2019-08-30T14:28:52.165] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:28:52.171] [INFO] default - [p 13908] Listening at port 4000
+[2019-08-30T14:29:09.864] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:29:09.869] [INFO] default - [p 15668] Listening at port 4000
+[2019-08-30T14:30:07.621] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:30:07.626] [INFO] default - [p 16612] Listening at port 4000
+[2019-08-30T14:31:14.666] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:31:14.672] [INFO] default - [p 8224] Listening at port 4000
+[2019-08-30T14:31:58.662] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:31:58.668] [INFO] default - [p 17392] Listening at port 4000
+[2019-08-30T14:32:19.203] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:32:19.209] [INFO] default - [p 14212] Listening at port 4000
+[2019-08-30T14:33:01.418] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:33:01.424] [INFO] default - [p 17224] Listening at port 4000
+[2019-08-30T14:33:21.712] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:33:21.718] [INFO] default - [p 5176] Listening at port 4000
+[2019-08-30T14:34:00.068] [INFO] default - ApiRouter {
+  config: {
+    development: true,
+    env: 'development',
+    version: undefined,
+    port: 4000,
+    timezone: undefined,
+    logging: {
+      maxsize: 102400,
+      maxFiles: 2,
+      colorize: false,
+      appenders: [Object],
+      categories: [Object]
+    },
+    authSecret: undefined,
+    authSession: { session: false }
+  },
+  containerMiddleware: [Function: scopePerRequestMiddleware],
+  router: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer] ]
+  },
+  apiRouter: [Function: router] {
+    params: {},
+    _params: [],
+    caseSensitive: undefined,
+    mergeParams: undefined,
+    strict: undefined,
+    stack: [ [Layer], [Layer], [Layer], [Layer], [Layer], [Layer] ]
+  }
+}
+[2019-08-30T14:34:00.081] [INFO] default - [p 1816] Listening at port 4000
